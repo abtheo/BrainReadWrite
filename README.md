@@ -2,7 +2,7 @@
 
 1. Brain Computer Interfaces: Decoding EEG brainwave data into response signals, allowing computer systems to be controlled directly by the user's thoughts.
 
-[Neural Topological Map](https://github.com/abtheo/BrainReadWrite/blob/master/img/topomap.png) 
+![Neural Topological Map](https://github.com/abtheo/BrainReadWrite/blob/master/img/topomap.png) 
 
 2. Neural Decoding: Reconstructing hand-written characters from a subject's fRMI brain reading data.
 
